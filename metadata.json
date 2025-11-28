@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Obby Architect",
+  "description": "An AI-powered level generator for platformer games. Describe a theme, and Gemini will architect a playable level for you instantly.",
+  "requestFramePermissions": []
+}

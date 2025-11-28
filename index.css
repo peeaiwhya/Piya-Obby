@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Fredoka', 'Inter', sans-serif;
+  background-color: #fdf4ff; /* Fuchsia 50 */
+  color: #1e293b;
+  overflow: hidden;
+}
